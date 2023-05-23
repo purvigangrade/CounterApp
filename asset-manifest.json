@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Placement-Assignment_PurviGangrade/static/css/main.855e6dd8.css",
+    "main.js": "/Placement-Assignment_PurviGangrade/static/js/main.cfbc7ae3.js",
+    "index.html": "/Placement-Assignment_PurviGangrade/index.html",
+    "main.855e6dd8.css.map": "/Placement-Assignment_PurviGangrade/static/css/main.855e6dd8.css.map",
+    "main.cfbc7ae3.js.map": "/Placement-Assignment_PurviGangrade/static/js/main.cfbc7ae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.855e6dd8.css",
+    "static/js/main.cfbc7ae3.js"
+  ]
+}
